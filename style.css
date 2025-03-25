@@ -6,6 +6,7 @@ body {
   background-attachment: fixed; 
   margin-top: 10%;
   font-family: Georgia, serif;
+  background-image: url("https://www.the-art-minute.com/wp-content/uploads/2013/04/Picasso-guitar-430x600.jpg");
 }
 
 html{
@@ -20,7 +21,6 @@ html{
 .container{
   display: flex;
   flex-wrap: wrap;
-  background-color: white;
   justify-content: space-around;
   align-items: flex-start;
   padding-bottom: 20px;
@@ -34,7 +34,9 @@ html{
 }
 
 h2{
-  color: black;
+  color: White;
+  background-color: black;
+  text-align: center;
 }
 
 #start{
